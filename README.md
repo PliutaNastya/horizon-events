@@ -1,8 +1,8 @@
 # Horizon Events — Event Landing Page
 
-Welcome to the **Horizon Events** project — a responsive and visually engaging landing page.
+![Horizon Events Preview](./assets/preview.gif)
 
-![Horizon Events Preview](./preview.gif)
+Welcome to the **Horizon Events** project — a responsive and visually engaging landing page.
 
 ## Live Demo
 
